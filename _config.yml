@@ -10,12 +10,17 @@ title: Learning Blog
 description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
 github_username: srujanreddyj
 
+author: Srujan Jabbireddy
+#avatar: /logo.png
+email: jsrujanreddy@gmail.com
+
+
 # Email and twitter are optional:
-email:
+email: jsrujanreddy@gmail.com
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
@@ -27,6 +32,10 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-sitemap
+  - jekyll-paginate
+  
+paginate: 10
 
 titles_from_headings:
   enabled:     true
