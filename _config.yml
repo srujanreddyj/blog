@@ -27,13 +27,17 @@ google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
+remote_theme: ngzhio/jekyll-theme-hamilton
 plugins:
+  - jekyll-theme-hamilton
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
+
   
 paginate: 10
 
