@@ -38,8 +38,13 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
-  
+
 paginate: 10
+
+exclude:
+  - scripts/
+  - README.md
+  - jekyll-theme-hamilton.gemspec
 
 titles_from_headings:
   enabled:     true
