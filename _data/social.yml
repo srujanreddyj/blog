@@ -1,13 +1,13 @@
+- title: Linkedin
+  url: https://linkedin.com/in/srujan-reddy/
+  icon: fab fa-linkedin
 - title: Twitter
   url: https://twitter.com/srujan_here
   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/srujanreddyj
   icon: fab fa-github
-- title: Linkedin
-  url: https://linkedin.com/in/srujan-reddy/
-  icon: fab fa-linkedin
-- title: R
+- title: Resume
   url:
   icon: fas fa-file-pdf
 
