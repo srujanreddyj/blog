@@ -8,7 +8,8 @@ permalink: /about/
 ### Hello there, fellow Engineers!! 👋
 -----------------------------------------------------------------------
 I'm Srujan, an Engineer
------------------------------------------------------------------------
+---
+
 Machine Learning | Industrial Engineer | Data Science | Manufacturing
 
 
@@ -37,9 +38,9 @@ Things I'm good at 🔥
 
 - Machine Learning Projects:
   - [***Forecasting of Sales - M5 Competition***](https://srujanreddyj.github.io/portfolio/2020/09/25/M5_1.html)
-  - [***Amenities (Object) Detection in a house***]
+  - [***Amenities (Object) Detection in a house***](https://github.com/srujanreddyj/amenity-object-detection)
   - Academic Project - [***Image Classification on CIFAR-10 using CNN***](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
   - Academic Project - [RAM - Repelling Attracting Metropolis Algorithm](https://github.com/srujanreddyj/STAT-654-Term-Project)
-  - ***Categorizing and Assessing Financial Risk for Health Insurance Companies***
+  - Academic Project - [***Categorizing and Assessing Financial Risk for Health Insurance Companies***](https://drive.google.com/file/d/1Bq1y1wpQmBldJrNZf1nOw4X72YXfZmuK/view?usp=sharing)
 
 
