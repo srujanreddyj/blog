@@ -11,15 +11,13 @@ I'm Srujan, an Engineer
 ---
 
 Machine Learning | Industrial Engineer | Data Science | Manufacturing
-
-
-I am an Industrial and Systems Engineer Graduate, with a specialization in Data Science and Manufacturing track. My core interest is in applications of Machine Learning in Industrial Automation.
-
 I am learning all about machine learning, so I can build machines that build machines, become intelligent, and make our living abundant.
 
-Currently, I am looking for a full-time opportunities in Data Science, Machine Learning or related field. I love to learn and contribute towards machine learning community in any and every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
 
-- 🌱 I’m currently learning Machine Learning and Deep Learning techniques to apply in industrial automation, self-driving technologies.
+I am an Industrial and Systems Engineer Graduate, with a specialization in Data Science and Manufacturing track. 
+  - My core interest is in applications of Machine Learning in Industrial Automation.
+
+Currently, I am looking for a full-time opportunities in Data Science, Machine Learning or related field. I love to learn and contribute towards machine learning community in any and every possible way to achieve the goals of smart machines. I'm passionate about technology, people and society.
 
 - I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about engineer side of Machine learning, that means developing tools that can bring machine learning live, Computer Vision Engineering and Artificial Intelligence.
 
