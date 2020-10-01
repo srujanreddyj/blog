@@ -37,7 +37,7 @@ Things I'm good at 🔥
 - Industrial Skills: Lean Engineering, Production Inventory Control, Quality Control, Anomaly Detection, Stochastic Programming, Probability, Quantitative Risk Analysis, Design and Analysis of Industrial Experiments 
 
 - Machine Learning Projects:
-  - [***Forecasting of Sales - M5 Competition***](https://srujanreddyj.github.io/portfolio/2020/09/25/M5_1.html)
+  - [***Forecasting of Walmart Sales - M5 Competition***](https://srujanreddyj.github.io/portfolio/2020/09/25/M5_1.html)
   - [***Amenities (Object) Detection in a house***](https://github.com/srujanreddyj/amenity-object-detection)
   - Academic Project - [***Image Classification on CIFAR-10 using CNN***](https://github.com/srujanreddyj/ENGINEERING_DATA_ANALYSIS-ISEN-613---ACADEMIC_PROJECT)
   - Academic Project - [RAM - Repelling Attracting Metropolis Algorithm](https://github.com/srujanreddyj/STAT-654-Term-Project)
