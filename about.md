@@ -11,6 +11,7 @@ I'm Srujan, an Engineer
 ---
 
 Machine Learning | Industrial Engineer | Data Science | Manufacturing
+
 I am learning all about machine learning, so I can build machines that build machines, become intelligent, and make our living abundant.
 
 
