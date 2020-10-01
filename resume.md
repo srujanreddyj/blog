@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /docs/
+permalink: /portfolio/
 ---
 
 A Portfolio page.
