@@ -23,7 +23,7 @@ Currently, I am looking for a full-time opportunities in Data Science, Machine L
 
   - I am proficient in Machine Learning, Data Analysis and Visualization. I am passionate about engineer side of Machine learning, that means developing tools that can bring machine learning live, Computer Vision Engineering and Artificial Intelligence.
   
-  - At present, I am working as Student Assitant | Data Science Intern with Texas A&M Institute of Data Science.
+  - At present, I am working as Student Assitant, Data Science Intern with Texas A&M Institute of Data Science.
     - I develop visualization dashboards using plotly and dash
     - Develop graph network informational dashboards to profile university's thematic research areas.
     - Develop tools that enable exploration and characterization of current and trending research, visualized research collaborations through coauthor ship networks
