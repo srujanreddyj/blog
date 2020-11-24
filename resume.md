@@ -5,3 +5,4 @@ permalink: /resume/
 ---
 
 A Portfolio page.
+https://read.cv/srujan
