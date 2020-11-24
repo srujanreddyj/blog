@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /https://read.cv/srujan/
+permalink: /resume/
 ---
 
 A Portfolio page.
