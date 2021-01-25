@@ -274,6 +274,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-github-metadata
   jekyll-octicons
+  jekyll-redirect-from
   jekyll-remote-theme
   tzinfo (~> 1.2)
   tzinfo-data
