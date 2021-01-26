@@ -1,9 +1,6 @@
 ---
-layout: page
-title: Portfolio
+layout: redirected
+sitemap: false
 permalink: /resume/
-url: https://read.cv/srujan
+redirect_to:  /portfolio/
 ---
-
-A Portfolio page.
-https://read.cv/srujan
